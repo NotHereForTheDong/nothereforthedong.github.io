@@ -26,3 +26,17 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.ryu.tunneloflight
+Version: 1.0
+Section: Tweaks
+Maintainer: Nobody
+Depends: firmware (<7.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.ryu.tunneloflight_1.0_iphoneos-arm.deb
+Size: 10,599,098
+MD5sum: e3a6a5e876cb631f17fe3cf470009f7b
+Description: RYU Widget
+Name: RYU Widget
+Author: Nobody
+Depiction: n/a
+
