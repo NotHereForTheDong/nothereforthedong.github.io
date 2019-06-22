@@ -1,3 +1,5 @@
+Repo
+
 Package: com.NHFTD.MasqTapedUp
 Version: 1.05
 Section: Tweaks
@@ -49,8 +51,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.RRA.SampleSettings_1.0_iphoneos-arm.deb
 Size: 32925720
 MD5sum: 0b00b3350583a714e68b462bc36a2fe6
-Description: A Slightly Animated Respring Logo
-Name: RRA Smile Respring
+Description: A sample set of settings theme
+Name: RRA Sample Settings
 Author: Nobody
 Depiction: n/a
 
@@ -79,5 +81,19 @@ Size: 67150
 MD5sum: 1ffcdafdb2bfcae749dd0fc63b953c95
 Description: A custom Status Bar / Camping Style
 Name: Camping Style Status Bar
+Author: Nobody
+Depiction: n/a
+
+Package: com.NHFTD.MasqVinylNew
+Version: 1.05
+Section: Tweaks
+Maintainer: Nobody
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.NHFTD.MasqVinylNew_1.05_iphoneos-arm.deb
+Size: 108354
+MD5sum: 1f6bc5e5632fb614fc28548b20def8bc
+Description: New Vinyl Masq Theme
+Name: Vinyl Masq Theme
 Author: Nobody
 Depiction: n/a
