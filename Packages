@@ -1,42 +1,69 @@
-Package: com.supermamon.newpackage
-Version: 2.0.0-1
+Package: com.NHFTD.MasqTapedUp
+Version: 1.05
 Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Maintainer: Nobody
+Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
-Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+Filename: ./debs/com.NHFTD.MasqTapedUp_1.05_iphoneos-arm.deb
+Size: 75900
+MD5sum: baf0d1685fd9fbbbfb4af22445f39a61
+Description: Taped Up Masq Theme
+Name: Taped Up Masq Theme
+Author: Nobody
+Depiction: n/a
 
-Package: com.supermamon.oldpackage
-Version: 1.0.0-1
+Package: com.RRA.DockPack
+Version: 1.05
 Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
+Maintainer: Nobody
+Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
-Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+Filename: ./debs/com.RRA.DockPack_1.05_iphoneos-arm.deb
+Size: 5143182
+MD5sum: c69c1449bed4c68a2a15878b207bc782
+Description: RRA Dock Pack
+Name: RRA Dock Pack
+Author: Nobody
+Depiction: n/a
 
-Package: com.ryu.tunneloflight
+Package: com.RRA.SmileRespring
 Version: 1.0
 Section: Tweaks
 Maintainer: Nobody
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.ryu.tunneloflight_1.0_iphoneos-arm.deb
-Size: 10,599,098
-MD5sum: e3a6a5e876cb631f17fe3cf470009f7b
-Description: RYU Widget
-Name: RYU Widget
+Filename: ./debs/com.RRA.SmileRespring_1.0_iphoneos-arm.deb
+Size: 779402
+MD5sum: 16974a6b393eb53a4df6dcf72d108181
+Description: A Slightly Animated Respring Logo
+Name: RRA Smile Respring
 Author: Nobody
 Depiction: n/a
 
+Package: com.RRA.SampleSettings
+Version: 1.0
+Section: Tweaks
+Maintainer: Nobody
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.RRA.SampleSettings_1.0_iphoneos-arm.deb
+Size: 32925720
+MD5sum: 0b00b3350583a714e68b462bc36a2fe6
+Description: A Slightly Animated Respring Logo
+Name: RRA Smile Respring
+Author: Nobody
+Depiction: n/a
+
+Package: com.RRA.MusicControlsPack
+Version: 1.05
+Section: Tweaks
+Maintainer: Nobody
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.RRA.MusicControlsPack_1.05_iphoneos-arm.deb
+Size: 779402
+MD5sum: 2f0b9d4bc331d55b2d69290e3bb8b6c0
+Description: A custom pack of iThemer Music controls
+Name: RRA Music Control Pack
+Author: Nobody
+Depiction: n/a
