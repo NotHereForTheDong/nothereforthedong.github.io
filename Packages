@@ -67,3 +67,17 @@ Description: A custom pack of iThemer Music controls
 Name: RRA Music Control Pack
 Author: Nobody
 Depiction: n/a
+
+Package: com.NHFTD.CampingStatusBar
+Version: 1.4
+Section: Tweaks
+Maintainer: Nobody
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.NHFTD.CampingStatusBar_1.4_iphoneos-arm.deb
+Size: 67150
+MD5sum: 1ffcdafdb2bfcae749dd0fc63b953c95
+Description: A custom Status Bar / Camping Style
+Name: Camping Style Status Bar
+Author: Nobody
+Depiction: n/a
