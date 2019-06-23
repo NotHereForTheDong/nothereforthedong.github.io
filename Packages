@@ -7,6 +7,7 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.NHFTD.MasqTapedUp_1.05_iphoneos-arm.deb
 Size: 75900
 MD5sum: baf0d1685fd9fbbbfb4af22445f39a61
+SHA256: 941d44c33a17548c821eea7bbd81141e7ef96891a0eaf967fe61fef5d96e416f
 Description: Taped Up Masq Theme
 Name: Taped Up Masq Theme
 Author: Nobody
@@ -21,6 +22,7 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.RRA.DockPack_1.05_iphoneos-arm.deb
 Size: 5143182
 MD5sum: c69c1449bed4c68a2a15878b207bc782
+SHA256: 42029ee868668b239fc4d2365c3b216f48157c1570d64a5b74327641cd31ed3d
 Description: RRA Dock Pack
 Name: RRA Dock Pack
 Author: Nobody
@@ -34,6 +36,7 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.RRA.SmileRespring_1.0_iphoneos-arm.deb
 Size: 779402
+SHA256: b96a8449eded4a103755d42990b4adf9e17736536d3e832c01c04434c84fc779
 MD5sum: 16974a6b393eb53a4df6dcf72d108181
 Description: A Slightly Animated Respring Logo
 Name: RRA Smile Respring
@@ -49,6 +52,7 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.RRA.SampleSettings_1.0_iphoneos-arm.deb
 Size: 32925720
 MD5sum: 0b00b3350583a714e68b462bc36a2fe6
+SHA256: 749cf485c4dd3b494b77d346b76614e4d1f6c998599afc11638818d573cd5525
 Description: A sample set of settings theme
 Name: RRA Sample Settings
 Author: Nobody
@@ -63,11 +67,7 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.RRA.MusicControlsPack_1.05_iphoneos-arm.deb
 Size: 779402
 MD5sum: 2f0b9d4bc331d55b2d69290e3bb8b6c0
-Description: A custom pack of iThemer Music controls
-Name: RRA Music Control Pack
-Author: Nobody
-Depiction: n/a
-
+SHA256: c3183ab534ffccaa364679558c9b16cccbfae1f350b4ece741946611cb1a36b6
 Package: com.NHFTD.CampingStatusBar
 Version: 1.4
 Section: Tweaks
@@ -77,6 +77,7 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.NHFTD.CampingStatusBar_1.4_iphoneos-arm.deb
 Size: 67150
 MD5sum: 1ffcdafdb2bfcae749dd0fc63b953c95
+SHA256: 
 Description: A custom Status Bar / Camping Style
 Name: Camping Style Status Bar
 Author: Nobody
@@ -91,6 +92,7 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.NHFTD.MasqVinylNew_1.05_iphoneos-arm.deb
 Size: 105086
 MD5sum: 0d4b52b31eabff48921d962975380af5
+SHA256: da540a74d7aa2262689a560709adc466763078d6fee37d95e7516ed362868b95
 Description: New Vinyl Masq Theme
 Name: Vinyl Masq Theme
 Author: Nobody
