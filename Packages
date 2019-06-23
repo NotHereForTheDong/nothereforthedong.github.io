@@ -1,5 +1,3 @@
-Repo
-
 Package: com.NHFTD.MasqTapedUp
 Version: 1.05
 Section: Tweaks
@@ -91,8 +89,8 @@ Maintainer: Nobody
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.NHFTD.MasqVinylNew_1.05_iphoneos-arm.deb
-Size: 108354
-MD5sum: 1f6bc5e5632fb614fc28548b20def8bc
+Size: 105086
+MD5sum: 0d4b52b31eabff48921d962975380af5
 Description: New Vinyl Masq Theme
 Name: Vinyl Masq Theme
 Author: Nobody
