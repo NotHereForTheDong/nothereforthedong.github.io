@@ -102,3 +102,18 @@ Description: New Vinyl Masq Theme
 Name: Vinyl Masq Theme
 Author: Nobody
 Depiction: n/a
+
+Package: com.NHFTD.iPodMasqTheme
+Version: 1.05
+Section: Tweaks
+Maintainer: Nobody
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.NHFTD.com.NHFTD.iPodMasqTheme_1.05_iphoneos-arm.deb
+Size: 160640
+MD5sum: 0469783a01285911d5a63db739b2499d
+SHA256: 40ff0499ded515b8661f9f331a1563320a6a08f8a06f62940ed2422a66794c88
+Description: iPod Masq Theme
+Name: iPod Masq Theme
+Author: Nobody
+Depiction: n/a
