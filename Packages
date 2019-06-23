@@ -68,6 +68,11 @@ Filename: ./debs/com.RRA.MusicControlsPack_1.05_iphoneos-arm.deb
 Size: 779402
 MD5sum: 2f0b9d4bc331d55b2d69290e3bb8b6c0
 SHA256: c3183ab534ffccaa364679558c9b16cccbfae1f350b4ece741946611cb1a36b6
+Description: A custom pack of music controls m
+Name: RRA Music Control Pack
+Author: Nobody
+Depiction: n/a
+
 Package: com.NHFTD.CampingStatusBar
 Version: 1.4
 Section: Tweaks
@@ -77,7 +82,7 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.NHFTD.CampingStatusBar_1.4_iphoneos-arm.deb
 Size: 67150
 MD5sum: 1ffcdafdb2bfcae749dd0fc63b953c95
-SHA256: 
+SHA256: c3183ab534ffccaa364679558c9b16cccbfae1f350b4ece741946611cb1a36b6
 Description: A custom Status Bar / Camping Style
 Name: Camping Style Status Bar
 Author: Nobody
