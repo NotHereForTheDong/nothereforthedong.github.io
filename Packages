@@ -65,9 +65,9 @@ Maintainer: Nobody
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.RRA.MusicControlsPack_1.05_iphoneos-arm.deb
-Size: 779402
+Size: 352528
 MD5sum: 2f0b9d4bc331d55b2d69290e3bb8b6c0
-SHA256: c3183ab534ffccaa364679558c9b16cccbfae1f350b4ece741946611cb1a36b6
+SHA256: 64d6c7a4a91406aba0ef139b1aa491b5a500a19883bee3dd209c3b70746fbd04
 Description: A custom pack of music controls m
 Name: RRA Music Control Pack
 Author: Nobody
@@ -109,11 +109,11 @@ Section: Tweaks
 Maintainer: Nobody
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.NHFTD.com.NHFTD.iPodMasqTheme_1.05_iphoneos-arm.deb
+Filename: ./debs/com.NHFTD.iPodMasqTheme_1.05_iphoneos-arm.deb
 Size: 160640
 MD5sum: 0469783a01285911d5a63db739b2499d
 SHA256: 40ff0499ded515b8661f9f331a1563320a6a08f8a06f62940ed2422a66794c88
-Description: iPod Masq Theme
-Name: iPod Masq Theme
+Description: iPod Style Masq Theme
+Name: iPad Masq Theme
 Author: Nobody
 Depiction: n/a
