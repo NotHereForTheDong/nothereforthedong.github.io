@@ -117,3 +117,33 @@ Description: iPod Style Masq Theme
 Name: iPad Masq Theme
 Author: Nobody
 Depiction: n/a
+
+Package: com.NHFTD.PinkFloydTerm
+Version: 1.0
+Section: TerminalSupport
+Maintainer: NHFTD
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.NHFTD.PinkFloydTerm_1.0_iphoneos-arm.deb
+Size: 1000
+MD5sum: da8a1d8d2f81721fd84129ceef3324aa
+SHA256: bcd2905c7eccee38f36c6d9feb56e10ba3914bbca1ab74447454b1c20db2c722
+Description: Pink Floyd Terminal Greeting
+Name: PinkFloydTerm
+Author: NHFTD
+Depiction: n/a
+
+Package: com.NHFTD.BatmanTerm
+Version: 1.0
+Section: TerminalSupport
+Maintainer: NHFTD
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.NHFTD.BatmanTerm_1.0_iphoneos-arm.deb
+Size: 754
+MD5sum: 2cabf74bda8e7da7a031025ae63478e3
+SHA256: 3da72d8e52a7ba9e59e3bf18b5e39c12a9c3a5db996b7f6f5580c2bfd109ce0c
+Description: Batman Terminal Greeting
+Name: BatmanTerm
+Author: NHFTD
+Depiction: n/a
