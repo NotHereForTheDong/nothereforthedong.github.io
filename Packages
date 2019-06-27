@@ -147,3 +147,48 @@ Description: Batman Terminal Greeting
 Name: BatmanTerm
 Author: NHFTD
 Depiction: n/a
+
+Package: com.RRA.WidgetPack1
+Version: 1.05
+Section: Tweaks
+Maintainer: Nobody
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.RRA.WidgetPack1_1.05_iphoneos-arm.deb
+Size: 2776532
+MD5sum: f4b8c1418ff4169f81aee343e117ebe3
+SHA256: cfb626cad339aa33d455e2194fbe69d92e1232805d55c602ca96522b33666aa0
+Description: Widget Pack 1
+Name: Widget Pack 1
+Author: Nobody
+Depiction: n/a
+
+Package: com.RRA.8ballSwitch
+Version: 1.05
+Section: Tweaks
+Maintainer: Nobody
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.RRA.8ballSwitch_1.05_iphoneos-arm.deb
+Size: 6904
+MD5sum: 9084d67ff62904a07cbb76fdebc62453
+SHA256: a66b091e217186c31a144c5085d7d6d9911785785dde4438d867eed865269e73
+Description: 8ballSwitch
+Name: 8ballSwitch
+Author: Nobody
+Depiction: n/a
+
+Package: com.RRA.DockPack2
+Version: 1.05
+Section: Tweaks
+Maintainer: Nobody
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.RRA.DockPack2_1.05_iphoneos-arm.deb
+Size: 516208
+MD5sum: baf0d1685fd9fbbbfb4af22445f39a61
+SHA256: 95688dd4bb70fe1e1f7255ed1dde7e05e42ff32dc8cb798df0e5eae926599e8a
+Description: RRA DockPack2
+Name: RR DockPack2
+Author: Nobody
+Depiction: n/a
