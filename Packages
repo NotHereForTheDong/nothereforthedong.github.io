@@ -174,7 +174,7 @@ Size: 6904
 MD5sum: 9084d67ff62904a07cbb76fdebc62453
 SHA256: a66b091e217186c31a144c5085d7d6d9911785785dde4438d867eed865269e73
 Description: 8ballSwitch
-Name: 8ballSwitch
+Name: 8-Ball Switch
 Author: Nobody
 Depiction: n/a
 
@@ -189,6 +189,21 @@ Size: 516208
 MD5sum: baf0d1685fd9fbbbfb4af22445f39a61
 SHA256: 95688dd4bb70fe1e1f7255ed1dde7e05e42ff32dc8cb798df0e5eae926599e8a
 Description: RRA DockPack2
-Name: RR DockPack2
+Name: RRA DockPack2
+Author: Nobody
+Depiction: n/a
+
+Package: com.RRA.DockPack3
+Version: 1.05
+Section: Tweaks
+Maintainer: Nobody
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.RRA.DockPack3_1.05_iphoneos-arm.deb
+Size: 569296
+MD5sum: 35e49bbc0dbf8ae35fd951f489433ea0
+SHA256: 1c36852ad23adf2842a6534ca3b65e3f68e832077ca8323918b979378f39d397
+Description: RRA DockPack3
+Name: RRA DockPack3
 Author: Nobody
 Depiction: n/a
